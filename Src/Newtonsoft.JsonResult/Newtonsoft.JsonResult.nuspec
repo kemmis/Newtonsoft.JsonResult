@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Newtonsoft.JsonResult</id>
+    <version>$version$</version>
+    <authors>Rafe Kemmis, Asger Hallas</authors>
+    <description>A JsonResult ActionResult for ASP.NET MVC that uses the Json.NET the json serializer.</description>
+  </metadata>
+</package>
